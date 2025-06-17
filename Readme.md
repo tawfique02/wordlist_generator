@@ -81,7 +81,7 @@ This tool is provided as-is under the [MIT License](https://github.com/tawfique0
 Use responsibly. This tool is intended for ethical penetration testing and educational purposes only. Unauthorized use against systems you do not own or have permission to test is illegal.
 
 Author
-Created by [Md Tawfique Elahey]
+Created by [[Md Tawfique Elahey]](https://github.com/tawfique02)
 
 Feel free to contribute or report issues!
 ---
