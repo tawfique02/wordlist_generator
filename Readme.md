@@ -17,7 +17,7 @@ Ideal for penetration testing, password auditing, and security research.
 ---
 Start by cloning this repository to unlock powerful wordlist generation and kick off your password cracking journey:
 ```
-git clone 
+git clone https://github.com/tawfique02/wordlist_generator.git
 ```
 ## Requirements
 - Python 3.x
