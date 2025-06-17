@@ -71,7 +71,7 @@ football@2024
 admin123
 ```
 ## License
-This tool is provided as-is under the [MIT License]()
+This tool is provided as-is under the [MIT License](https://github.com/tawfique02/wordlist_generator/blob/main/LICENSE)
 
 ## Disclaimer
 Use responsibly. This tool is intended for ethical penetration testing and educational purposes only. Unauthorized use against systems you do not own or have permission to test is illegal.
