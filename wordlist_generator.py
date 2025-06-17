@@ -69,3 +69,4 @@ if __name__ == "__main__":
     print_banner()
     generate_rockyou_style_wordlist()
 
+
