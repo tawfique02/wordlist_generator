@@ -70,6 +70,10 @@ rocky321
 football@2024
 admin123
 ```
+Useful command:
+```
+cat wordlist.txt | head -20
+```
 ## License
 This tool is provided as-is under the [MIT License](https://github.com/tawfique02/wordlist_generator/blob/main/LICENSE)
 
