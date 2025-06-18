@@ -15,7 +15,7 @@ BANNER = r"""
    \ V  V /  __/ | (_| (_) | | | | | |  __/ | |___| | ||  __/    
     \_/\_/ \___|_|\___\___/|_| |_| |_|\___| |_____|_|\__\___|    
                                                                 
-      Advanced Wordlist Generator — by ChatGPT                 
+      Advanced Wordlist Generator — by TAWFIQUE ELAHEY                 
 """
 
 GUIDELINE = """
